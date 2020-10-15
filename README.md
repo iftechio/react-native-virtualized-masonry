@@ -1,5 +1,10 @@
 # react-native-virtualized-masonry
 
+[![npm](https://img.shields.io/npm/v/react-native-virtualized-masonry)](https://www.npmjs.com/package/react-native-virtualized-masonry)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/react-native-virtualized-masonry)](https://www.npmjs.com/package/react-native-virtualized-masonry)
+[![David](https://img.shields.io/david/iftechio/react-native-virtualized-masonry)](https://david-dm.org/iftechio/react-native-virtualized-masonry)
+[![npm](https://img.shields.io/npm/dt/react-native-virtualized-masonry.svg?style=flat-square)](https://www.npmjs.com/package/react-native-virtualized-masonry)
+
 > A pure JS React-Native **virtualized** masonry layout component
 
 ## Preview
