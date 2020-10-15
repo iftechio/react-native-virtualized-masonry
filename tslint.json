@@ -1,0 +1,25 @@
+{
+  "extends": ["tslint-react", "tslint-config-prettier", "tslint-react-hooks"],
+  "linterOptions": {
+    "exclude": []
+  },
+  "rulesDirectory": ["tslint-plugin-prettier"],
+  "rules": {
+    "prettier": true,
+    "no-floating-promises": false,
+    "no-any": false,
+    "ordered-imports": true,
+    "file-name-casing": false,
+    "no-implicit-dependencies": [true, "dev", ["~"]],
+    "jsx-no-lambda": false,
+    "react-this-binding-issue": false,
+    "promise-must-complete": false,
+    "no-use-before-declare": false,
+    "no-unused-variable": true,
+    "no-namespace": false,
+    "no-unnecessary-type-annotation": false,
+    "no-return-undefined": false,
+    "jsx-key": false,
+    "no-unused-expression": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "react-native-virtualized-masonry",
+  "title": "React Native Virtualized Masonry",
+  "version": "0.1.0",
+  "description": "React Native Virtualized Masonry",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-virtualized-masonry.git",
+    "baseUrl": "https://github.com/github_account/react-native-virtualized-masonry"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Ryan Wang",
+    "email": "wtmanutd@163.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.52",
+    "@types/react-native": "^0.63.25",
+    "react": "^16.9.0",
+    "react-native": "^0.61.5",
+    "typescript": "^4.0.3"
+  }
+}
