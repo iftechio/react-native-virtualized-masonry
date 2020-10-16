@@ -1,7 +1,7 @@
 {
   "name": "react-native-virtualized-masonry",
   "title": "React Native Virtualized Masonry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Native Virtualized Masonry",
   "main": "lib/index.js",
   "scripts": {
